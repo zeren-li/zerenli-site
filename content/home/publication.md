@@ -11,7 +11,7 @@ design:
 
 ## Peer-reviewed Articles
 
-**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, 2023. [link](https://www.journals.uchicago.edu/doi/abs/10.1086/727604?journalCode=jop)
+**"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, 2024. [link](https://www.journals.uchicago.edu/doi/abs/10.1086/727604?journalCode=jop)
 - Winner of Kellogg/Notre Dame Award for Best Comparative Politics Paper at 2023 Midwest Political Science Association
 
 **"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, 2023. [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCED40169CCA6DEEF21B48012BC4D38C/S0305741023001133a.pdf/markets_under_mao_measuring_underground_activity_in_the_early_prc.pdf)
