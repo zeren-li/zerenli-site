@@ -35,7 +35,7 @@ A Difference-in-Differences Analysis of Judicial Leader Rotation in China."** Wi
 
 ## Working Papers
 
-**"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."**[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271). R&R
+**"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."**[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271). With Shenghua Lu.
 
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
 
