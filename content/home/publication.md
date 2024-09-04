@@ -32,11 +32,12 @@ design:
 
 ## Working Papers
 
-**"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."** With Shenghua Lu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271)
+**"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."** With Shenghua Lu, R\&R. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271)
+
+**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin, R\&R Yan.[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan.[link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 
 
