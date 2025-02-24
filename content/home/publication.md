@@ -34,7 +34,7 @@ design:
 
 **"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."** With Shenghua Lu, R\&R at *American Journal of Political Science*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271)
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan, R\&R at *Comparative Political Studies*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
+**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan, Conditionally accepted at *Comparative Political Studies*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
 
