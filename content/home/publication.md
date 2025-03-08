@@ -13,6 +13,7 @@ design:
 
 **"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, 2024. [link](https://www.journals.uchicago.edu/doi/abs/10.1086/727604?journalCode=jop)
 - Winner of Kellogg/Notre Dame Award for Best Comparative Politics Paper at 2023 Midwest Political Science Association
+- Featured in [Stanford SCCEI China Briefs](https://sccei.fsi.stanford.edu/china-briefs/revolving-door-chinese-characteristics-government-subsidies-and-post-government)
 
 **"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, 2023. [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCED40169CCA6DEEF21B48012BC4D38C/S0305741023001133a.pdf/markets_under_mao_measuring_underground_activity_in_the_early_prc.pdf)
 
@@ -32,9 +33,10 @@ design:
 
 ## Working Papers
 
+**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan, Conditionally accepted. *Comparative Political Studies*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
+
 **"Olson in China: Regional Chamber of Commerce, Political Brokers, and Firm Subsidies."** With Shenghua Lu, R\&R at *American Journal of Political Science*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4802271)
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan, Conditionally accepted at *Comparative Political Studies*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
 
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
 

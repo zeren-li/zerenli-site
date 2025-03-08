@@ -19,9 +19,13 @@ weight = 5
   
 +++
 
+## Comparative Politics
+
+ - Comparative Politics*, Instructor, National University of Singapore. [Syllabus](https://www.dropbox.com/scl/fi/8hk7vdboocbah60j0izoq/PP5913Intro_CP_Canvas.pdf?rlkey=wygmusw1xmor92ymtkz57rlh6&dl=0)<br/>
+
 ## Political Economy
 
- - Business and Politics, Instructor, National University of Singapore \& Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
+ - Business and Politics*, Instructor, National University of Singapore \& Yale University. [Syllabus](https://www.dropbox.com/s/latnw1iinriddry/Business_Politics.pdf?dl=0)<br/>
  
  - Political Economy of China, Instructor, Yale University. [Syllabus](https://www.dropbox.com/s/8qpuo4a34uxgr29/Syllabus_PE_China-2023_updated.pdf?dl=0)<br/>
  
