@@ -11,11 +11,14 @@ design:
 
 ## Peer-reviewed Articles
 
+**"Does Affluence Influence Authoritarian Responsiveness? Evidence from Urban China."** With Jiawei Fu and Haibin Yan. 2025. *Comparative Political Studies*. [link](https://journals.sagepub.com/doi/abs/10.1177/00104140251342921)
+
 **"Subsidies for Sale: Post-government Career Concern, Revolving-Door Channels, and Public Resource Allocation in China."** *Journal of Politics*, 2024. [link](https://www.journals.uchicago.edu/doi/abs/10.1086/727604?journalCode=jop)
 - Winner of Kellogg/Notre Dame Award for Best Comparative Politics Paper at 2023 Midwest Political Science Association
 - Featured in [Stanford SCCEI China Briefs](https://sccei.fsi.stanford.edu/china-briefs/revolving-door-chinese-characteristics-government-subsidies-and-post-government)
 
 **"Markets Under Mao: The Persistence of Market Activity in Maoist China."** With Adam Frost. *The China Quarterly*, 2023. [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FCED40169CCA6DEEF21B48012BC4D38C/S0305741023001133a.pdf/markets_under_mao_measuring_underground_activity_in_the_early_prc.pdf)
+- Awarded Gordon White Prize for the most original article in the China Quarterly
 
 **"The Decline of Factions: The Impact of Purge on Political Appointments in China."** With Melanie Manion. *British Journal of Political Science*, 2023. [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F7DE172435D36DABBA3B51A26BC692EA/S000712342200062Xa.pdf/the-decline-of-factions-the-impact-of-a-broad-purge-on-political-decision-making-in-china.pdf)
 
@@ -33,10 +36,7 @@ design:
 
 ## Working Papers
 
-**"A Privilege of the Rich? A Duality of Unequal Government Responsiveness in Urban China."** With Jiawei Fu and Haibin Yan. Conditionally accepted. *Comparative Political Studies*. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4253200)
-
-**"Brokerage and Patronage: Regional Chambers of Commerce and Firm Subsidies in China"** With Shenghua Lu, Conditionally accepted. *American Journal of Political Science*. 
-
+**"Brokerage and Patronage: Regional Chambers of Commerce and Firm Subsidies in China"** With Shenghua Lu. Forthcoming. *American Journal of Political Science*. 
 
 **"Favor With Fear: The Distributional Effect of Political Risk on Government Procurement in China."** With Songrui Liu. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338925)
 
